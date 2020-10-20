@@ -153,6 +153,10 @@ Primary use:
   }
 }
 
+.marginLeft {
+  margin-left: 20px;
+}
+
 
 
 /*//////////////////////////////////////////////////////////////////
@@ -414,9 +418,6 @@ Primary use:
 
 
 
-
-
-
 /*==================================================================
   RESPONSIVE RESPONSIVE RESPONSIVE RESPONSIVE RESPONSIVE RESPONSIVE
 ==================================================================*/
@@ -432,6 +433,10 @@ Primary use:
   .m-r-0-xl {margin-right: 0;}
   .m-l-15-xl {margin-left: 15px;}
   .m-r-15-xl {margin-right: 15px;}
+  /*---------------------------------------------*/
+  .marginLeft {
+    margin-left: 20px;
+  }
 
   .p-0-xl {padding: 0;}
   .p-lr-0-xl {padding-left: 0; padding-right: 0;}
@@ -566,7 +571,9 @@ Primary use:
   .m-r-0-sm {margin-right: 0;}
   .m-l-15-sm {margin-left: 15px;}
   .m-r-15-sm {margin-right: 15px;}
-
+  .marginLeft {
+    margin-left: 5px;
+  }
   .p-0-sm {padding: 0;}
   .p-lr-0-sm {padding-left: 0; padding-right: 0;}
   .p-lr-15-sm {padding-left: 15px; padding-right: 15px;}
