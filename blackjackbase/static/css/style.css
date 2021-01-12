@@ -15,10 +15,18 @@
     justify-content: space-around;
 }
 
-.flex-blackjack-row-1, .flex-blackjack-row-2 {
-    background: url('https://us.123rf.com/450wm/liorpt/liorpt1410/liorpt141000036/32281196-casino-tavolo-verde-sfondo.jpg?ver=6') center;
-    background-size: 100% auto;
+.flex-blackjack-row-1 {
+    background: url(../images/poorrug2.png) center;
+    background-size: 100%;
+    width: 100%;
+    height: auto;
     color: #ffffff;
+}
+
+.flex-blackjack-row-2 {
+    background: url(../images/background.png) center;
+    color: #ffffff;
+    background-size: 100%;
 }
 
 .flex-blackjack-row-1 div {
